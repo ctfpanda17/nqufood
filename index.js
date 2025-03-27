@@ -12,7 +12,7 @@ app.use(router.allowedMethods());
 
 app.use(async (ctx) => {
   await send(ctx, ctx.request.url.pathname, {
-    root: `${Deno.cwd()}/frontend`,
+    root: `${Deno.cwd()}`,
     index: "index.html",
   });
 });
