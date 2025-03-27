@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NQU 金大餐廳選擇器</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"/>
+    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+
+</head>
+<body>
+    <h1>NQU 金大餐廳選擇器</h1>
+    <br/>
+    <div id="form">
+        <label for="genre">餐廳類型：</label>
+        <select name="genre" id="genre" ">
+        </select>
+        &nbsp;&nbsp; 
+        <label for="location">餐廳位置：</label>
+        <select name="location" id="location">
+        </select>
+        &nbsp;&nbsp; 
+        <button id="submit">🔎</button>
+    </div>
+    <br/>
+    <div id="map"></div>
+    <div id="container"></div>
+    <script type="module" src="./script.js"></script>
+    
+</body>
+</html>
