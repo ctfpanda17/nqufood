@@ -1,7 +1,7 @@
 import fs from 'fs';
 import fetch from 'node-fetch';
 
-const SHEET_URL = '';
+const SHEET_URL = 'https://docs.google.com/spreadsheets/d/1Kvb0AYpw3vBFxxXB8waTHgpZKauBOzucFQL0R-cB0Wk/gviz/tq?tqx=out:csv';
 
 async function fetchCSV() {
     try {
