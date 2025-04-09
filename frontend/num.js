@@ -37,5 +37,7 @@ export const genreMapping = {
     "Exotic":"異國料理",
     "French":"法式料理",
     "NightSnack":"宵夜",
-    "Drinks":"飲料"
+    "Drinks":"飲料",
+    "BBQ":"燒烤",
+    "FryFood":"炸物"
 }
