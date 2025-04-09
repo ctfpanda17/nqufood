@@ -1,6 +1,7 @@
 export default [
     {
         "Restaurant": "咖啡貓早午餐",
+        "Location": "Jinning",
         "Genre": "BreakfastBrunch",
         "Price": "1",
         "Coordinates": "24.450161898955834, 118.33624166093745",
@@ -9,6 +10,7 @@ export default [
     },
     {
         "Restaurant": "男子漢雞排（金寧店）",
+        "Location": "Jinning",
         "Genre": "FastFood",
         "Price": "1",
         "Coordinates": "24.448725969193955, 118.33925803456434",
@@ -17,6 +19,7 @@ export default [
     },
     {
         "Restaurant": "瑞鴻早午餐 牛肉麵",
+        "Location": "Jinning",
         "Genre": "Chinese",
         "Price": "1",
         "Coordinates": "24.448363974004806, 118.33883713710374",
@@ -25,6 +28,7 @@ export default [
     },
     {
         "Restaurant": "頂堡逢甲香香雞",
+        "Location": "Jinning",
         "Genre": "FryFood",
         "Price": "1",
         "Coordinates": "24.448411785655676, 118.33884566085398",
@@ -33,6 +37,7 @@ export default [
     },
     {
         "Restaurant": "金澤食堂",
+        "Location": "Jinning",
         "Genre": "Japanese",
         "Price": "5",
         "Coordinates": "24.447814150748407, 118.33839971972097",
@@ -41,6 +46,7 @@ export default [
     },
     {
         "Restaurant": "AROMA義式創意料理",
+        "Location": "Jinning",
         "Genre": "Italian",
         "Price": "3",
         "Coordinates": "24.45038816897203, 118.33900546456974",
@@ -49,6 +55,7 @@ export default [
     },
     {
         "Restaurant": "寂寞寂寞山芭地",
+        "Location": "Jinning",
         "Genre": "Dessert",
         "Price": "2",
         "Coordinates": "24.446697795869458, 118.33792401000765",
@@ -57,6 +64,7 @@ export default [
     },
     {
         "Restaurant": "洋荃西餐",
+        "Location": "Jinning",
         "Genre": "Italian",
         "Price": "3",
         "Coordinates": "24.446815005589677, 118.33760879906599",
@@ -65,6 +73,7 @@ export default [
     },
     {
         "Restaurant": "清雅羊肉爐",
+        "Location": "Jinning",
         "Genre": "HotPot",
         "Price": "2",
         "Coordinates": "24.447494974704693, 118.33448384870331",
@@ -73,6 +82,7 @@ export default [
     },
     {
         "Restaurant": "潁川四川老成都串串香",
+        "Location": "Jinning",
         "Genre": "HotPot",
         "Price": "1",
         "Coordinates": "24.447260889437587, 118.32990374245837",
@@ -81,6 +91,7 @@ export default [
     },
     {
         "Restaurant": "老許山莊",
+        "Location": "Jinning",
         "Genre": "Chinese",
         "Price": "2",
         "Coordinates": "24.446359547124853, 118.32895338601021",
@@ -89,6 +100,7 @@ export default [
     },
     {
         "Restaurant": "遇見 Meet Bar",
+        "Location": "Jinning",
         "Genre": "Bar",
         "Price": "3",
         "Coordinates": "24.447160049691316, 118.32978343562398",
@@ -97,6 +109,7 @@ export default [
     },
     {
         "Restaurant": "SUBWAY",
+        "Location": "Jincheng",
         "Genre": "FastFood",
         "Price": "2",
         "Coordinates": "24.4431167635209, 118.32513685434316",
@@ -105,6 +118,7 @@ export default [
     },
     {
         "Restaurant": "源烹制所",
+        "Location": "Jincheng",
         "Genre": "Ramen",
         "Price": "2",
         "Coordinates": "24.443080001768998, 118.32515012262307",
@@ -113,6 +127,7 @@ export default [
     },
     {
         "Restaurant": "早安山丘 金門環北店",
+        "Location": "Jincheng",
         "Genre": "BreakfastBrunch",
         "Price": "1",
         "Coordinates": "24.442955926406523, 118.32497065495497",
@@ -121,6 +136,7 @@ export default [
     },
     {
         "Restaurant": "頂堡寶早餐店",
+        "Location": "Jinning",
         "Genre": "Breakfast",
         "Price": "1",
         "Coordinates": "24.447726751568386, 118.3388854269652",
@@ -129,6 +145,7 @@ export default [
     },
     {
         "Restaurant": "呷尚宝金門店",
+        "Location": "Jinning",
         "Genre": "Breakfast",
         "Price": "1",
         "Coordinates": "24.44845664593397, 118.3248214153247",
@@ -137,6 +154,7 @@ export default [
     },
     {
         "Restaurant": "小城外熱炒",
+        "Location": "Jincheng",
         "Genre": "Chinese",
         "Price": "2",
         "Coordinates": "24.44244275017351, 118.3242840370374",
@@ -145,6 +163,7 @@ export default [
     },
     {
         "Restaurant": "廉坤牛肉店",
+        "Location": "Jincheng",
         "Genre": "Noodles",
         "Price": "2",
         "Coordinates": "24.44223702617174, 118.32352235337405",
@@ -153,6 +172,7 @@ export default [
     },
     {
         "Restaurant": "養鍋YangGuo石頭涮涮鍋",
+        "Location": "Jincheng",
         "Genre": "HotPot",
         "Price": "3",
         "Coordinates": "24.44199469624487, 118.32314377342527",
@@ -161,6 +181,7 @@ export default [
     },
     {
         "Restaurant": "金橙牛肉麵",
+        "Location": "Jincheng",
         "Genre": "Noodles",
         "Price": "1",
         "Coordinates": "24.44179500703935, 118.32175020065073",
@@ -169,6 +190,7 @@ export default [
     },
     {
         "Restaurant": "娜娜韓家館",
+        "Location": "Jincheng",
         "Genre": "Korean",
         "Price": "2",
         "Coordinates": "24.441751054002378, 118.32099650000046",
@@ -177,6 +199,7 @@ export default [
     },
     {
         "Restaurant": "麵家二眷-金門店",
+        "Location": "Jincheng",
         "Genre": "Noodles",
         "Price": "1",
         "Coordinates": "24.441124885281976, 118.32230057810352",
@@ -185,6 +208,7 @@ export default [
     },
     {
         "Restaurant": "辣匠",
+        "Location": "Jincheng",
         "Genre": "HotPot",
         "Price": "2",
         "Coordinates": "24.441224158222138, 118.32245215675795",
@@ -193,6 +217,7 @@ export default [
     },
     {
         "Restaurant": "祥富素食館",
+        "Location": "Jincheng",
         "Genre": "Vegetarian",
         "Price": "1",
         "Coordinates": "24.441166774827618, 118.32238778374867",
@@ -201,6 +226,7 @@ export default [
     },
     {
         "Restaurant": "鍋坊金門鍋物放題",
+        "Location": "Jincheng",
         "Genre": "Buffet",
         "Price": "3",
         "Coordinates": "24.44130894265252, 118.32195224012811",
@@ -209,6 +235,7 @@ export default [
     },
     {
         "Restaurant": "和牛貳 鍋物",
+        "Location": "Jincheng",
         "Genre": "HotPot",
         "Price": "3",
         "Coordinates": "24.440549126862837, 118.32238992946517",
@@ -217,6 +244,7 @@ export default [
     },
     {
         "Restaurant": "金門米糕城-盅湯小吃",
+        "Location": "Jincheng",
         "Genre": "Chinese",
         "Price": "1",
         "Coordinates": "24.440370550055334, 118.31992154218632",
@@ -225,6 +253,7 @@ export default [
     },
     {
         "Restaurant": "島嶼披薩 Isola Pizza Napoletana",
+        "Location": "Jinning",
         "Genre": "Italian",
         "Price": "3",
         "Coordinates": "24.44000933547953, 118.31733188487041",
@@ -233,6 +262,7 @@ export default [
     },
     {
         "Restaurant": "大漿",
+        "Location": "Jinning",
         "Genre": "NightSnack",
         "Price": "1",
         "Coordinates": "24.439245902337202, 118.31725807813908",
@@ -241,6 +271,7 @@ export default [
     },
     {
         "Restaurant": "兩披索靚鍋",
+        "Location": "Jincheng",
         "Genre": "HotPot",
         "Price": "1",
         "Coordinates": "24.439158912985928, 118.31717006273371",
@@ -249,6 +280,7 @@ export default [
     },
     {
         "Restaurant": "男子漢雞排（金城直營店）",
+        "Location": "Jincheng",
         "Genre": "FryFood",
         "Price": "1",
         "Coordinates": "24.439119308740114, 118.31730385179162",
@@ -257,6 +289,7 @@ export default [
     },
     {
         "Restaurant": "喫鍋頂級平價小火鍋",
+        "Location": "Jincheng",
         "Genre": "HotPot",
         "Price": "2",
         "Coordinates": "24.439064697212007, 118.3173427859345",
@@ -265,6 +298,7 @@ export default [
     },
     {
         "Restaurant": "麻豆子健康湯鍋",
+        "Location": "Jincheng",
         "Genre": "HotPot",
         "Price": "2",
         "Coordinates": "24.439553125489972, 118.32055584283455",
@@ -273,6 +307,7 @@ export default [
     },
     {
         "Restaurant": "梁社漢排骨",
+        "Location": "Jinning",
         "Genre": "Bento",
         "Price": "1",
         "Coordinates": "24.43844544679238, 118.31954462823107",
@@ -281,6 +316,7 @@ export default [
     },
     {
         "Restaurant": "AP203Bar",
+        "Location": "Jincheng",
         "Genre": "BreakfastBrunch",
         "Price": "1",
         "Coordinates": "24.43830786994005, 118.31987843625251",
@@ -289,6 +325,7 @@ export default [
     },
     {
         "Restaurant": "御饌屋 みけや",
+        "Location": "Jincheng",
         "Genre": "Japanese",
         "Price": "2",
         "Coordinates": "24.438424261286595, 118.32126208761528",
@@ -297,6 +334,7 @@ export default [
     },
     {
         "Restaurant": "GoWow Food Lab 狗窩義式窯烤披薩",
+        "Location": "Jincheng",
         "Genre": "Italian",
         "Price": "3",
         "Coordinates": "24.43646808890725, 118.31825986499679",
@@ -305,6 +343,7 @@ export default [
     },
     {
         "Restaurant": "潮味決",
+        "Location": "Jincheng",
         "Genre": "LouMei",
         "Price": "1",
         "Coordinates": "24.435896923323014, 118.31802963447541",
@@ -313,6 +352,7 @@ export default [
     },
     {
         "Restaurant": "中壢新永明川牛肉麵",
+        "Location": "Jincheng",
         "Genre": "Noodles",
         "Price": "1",
         "Coordinates": "24.436094497812412, 118.31831798140928",
@@ -321,6 +361,7 @@ export default [
     },
     {
         "Restaurant": "午時有食",
+        "Location": "Jincheng",
         "Genre": "Light",
         "Price": "1",
         "Coordinates": "24.435468080886352, 118.31852710875644",
@@ -329,6 +370,7 @@ export default [
     },
     {
         "Restaurant": "所以製豆SÒY MADE",
+        "Location": "Jincheng",
         "Genre": "Dessert",
         "Price": "1",
         "Coordinates": "24.435415578787183, 118.31862500939447",
@@ -337,6 +379,7 @@ export default [
     },
     {
         "Restaurant": "八方雲集（金門金城店）",
+        "Location": "Jincheng",
         "Genre": "Chinese",
         "Price": "1",
         "Coordinates": "24.435297754232156, 118.31853314374722",
@@ -345,6 +388,7 @@ export default [
     },
     {
         "Restaurant": "臻享REAL JOY",
+        "Location": "Jincheng",
         "Genre": "Italian",
         "Price": "2",
         "Coordinates": "24.43555307037072, 118.31930571496603",
@@ -353,6 +397,7 @@ export default [
     },
     {
         "Restaurant": "PIZZA HUT必勝客-金門金城店",
+        "Location": "Jincheng",
         "Genre": "FastFood",
         "Price": "5",
         "Coordinates": "24.43530527634232, 118.31915770880686",
@@ -361,6 +406,7 @@ export default [
     },
     {
         "Restaurant": "聯成廣東粥",
+        "Location": "Jincheng",
         "Genre": "Chinese",
         "Price": "1",
         "Coordinates": "24.435518512808407, 118.31893629466964",
@@ -369,6 +415,7 @@ export default [
     },
     {
         "Restaurant": "土司森林",
+        "Location": "Jincheng",
         "Genre": "BreakfastBrunch",
         "Price": "1",
         "Coordinates": "24.435541100904214, 118.3188873443605",
@@ -377,6 +424,7 @@ export default [
     },
     {
         "Restaurant": "鍋賣局百元小火鍋",
+        "Location": "Jincheng",
         "Genre": "HotPot",
         "Price": "1",
         "Coordinates": "24.435405399136908, 118.31846157651576",
@@ -385,6 +433,7 @@ export default [
     },
     {
         "Restaurant": "恆旨味屋日式鍋物",
+        "Location": "Jincheng",
         "Genre": "HotPot",
         "Price": "3",
         "Coordinates": "24.435177423754048, 118.31836307295804",
@@ -393,6 +442,7 @@ export default [
     },
     {
         "Restaurant": "滝禾製麵所",
+        "Location": "Jincheng",
         "Genre": "Ramen",
         "Price": "2",
         "Coordinates": "24.434547930793205, 118.31834461866694",
@@ -401,6 +451,7 @@ export default [
     },
     {
         "Restaurant": "四海遊龍",
+        "Location": "Jincheng",
         "Genre": "Chinese",
         "Price": "1",
         "Coordinates": "24.434264578145363, 118.31879561482448",
@@ -409,6 +460,7 @@ export default [
     },
     {
         "Restaurant": "吉祥餐飲",
+        "Location": "Jincheng",
         "Genre": "Chinese",
         "Price": "1",
         "Coordinates": "24.433833049267935, 118.31855980152952",
@@ -417,6 +469,7 @@ export default [
     },
     {
         "Restaurant": "豪傳說雞排-金城店",
+        "Location": "Jincheng",
         "Genre": "FryFood",
         "Price": "1",
         "Coordinates": "24.433653615091703, 118.3184044716322",
@@ -425,6 +478,7 @@ export default [
     },
     {
         "Restaurant": "傑尼燒烤",
+        "Location": "Jincheng",
         "Genre": "BBQ",
         "Price": "3",
         "Coordinates": "24.433726188883764, 118.31796243144314",
@@ -433,6 +487,7 @@ export default [
     },
     {
         "Restaurant": "金城飯店",
+        "Location": "Jincheng",
         "Genre": "Bar",
         "Price": "3",
         "Coordinates": "24.433361697495197, 118.31756472037083",
@@ -441,6 +496,7 @@ export default [
     },
     {
         "Restaurant": "艾瑪烤焦吐司早餐",
+        "Location": "Jincheng",
         "Genre": "Breakfast",
         "Price": "1",
         "Coordinates": "24.43319258899886, 118.31761903509314",
@@ -449,6 +505,7 @@ export default [
     },
     {
         "Restaurant": "美食館",
+        "Location": "Jincheng",
         "Genre": "Chinese",
         "Price": "1",
         "Coordinates": "24.43311749742658, 118.31750705286504",
@@ -457,6 +514,7 @@ export default [
     },
     {
         "Restaurant": "阿布腸粉 steamed rice roll",
+        "Location": "Jincheng",
         "Genre": "HongKong",
         "Price": "1",
         "Coordinates": "24.43307659386791, 118.31735684916242",
@@ -465,6 +523,7 @@ export default [
     },
     {
         "Restaurant": "金門第一味牛肉麵店",
+        "Location": "Jincheng",
         "Genre": "Noodles",
         "Price": "1",
         "Coordinates": "24.432902684460654, 118.31749013879966",
@@ -473,6 +532,7 @@ export default [
     },
     {
         "Restaurant": "3Q脆皮雞排",
+        "Location": "Jincheng",
         "Genre": "FryFood",
         "Price": "1",
         "Coordinates": "24.433226614433718, 118.31777998523307",
@@ -481,6 +541,7 @@ export default [
     },
     {
         "Restaurant": "純情麵館",
+        "Location": "Jincheng",
         "Genre": "Noodles",
         "Price": "2",
         "Coordinates": "24.433249202940054, 118.31782424167696",
@@ -489,6 +550,7 @@ export default [
     },
     {
         "Restaurant": "滷珍鄉",
+        "Location": "Jincheng",
         "Genre": "LouMei",
         "Price": "1",
         "Coordinates": "24.432802206209654, 118.317298399785",
@@ -497,6 +559,7 @@ export default [
     },
     {
         "Restaurant": "喫餅",
+        "Location": "Jincheng",
         "Genre": "Dessert",
         "Price": "1",
         "Coordinates": "24.43246581900187, 118.31708784639076",
@@ -505,6 +568,7 @@ export default [
     },
     {
         "Restaurant": "小么雞鹽水雞 ",
+        "Location": "Jincheng",
         "Genre": "LouMei",
         "Price": "1",
         "Coordinates": "24.43249329167477, 118.3171267384172",
@@ -513,6 +577,7 @@ export default [
     },
     {
         "Restaurant": "究匠關東煮",
+        "Location": "Jincheng",
         "Genre": "LouMei",
         "Price": "1",
         "Coordinates": "24.432609897842017, 118.31702481448583",
@@ -521,6 +586,7 @@ export default [
     },
     {
         "Restaurant": "小莓小吃店",
+        "Location": "Jincheng",
         "Genre": "Chinese",
         "Price": "1",
         "Coordinates": "24.4326244180158, 118.31670813621373",
@@ -529,6 +595,7 @@ export default [
     },
     {
         "Restaurant": "浯倆牛肉麵",
+        "Location": "Jincheng",
         "Genre": "Noodles",
         "Price": "2",
         "Coordinates": "24.43274773958998, 118.31679329634059",
@@ -537,6 +604,7 @@ export default [
     },
     {
         "Restaurant": "永樂台南土魠魚羹",
+        "Location": "Jincheng",
         "Genre": "Noodles",
         "Price": "1",
         "Coordinates": "24.432482170702176, 118.3165860957006",
@@ -545,6 +613,7 @@ export default [
     },
     {
         "Restaurant": "轉角咖啡Corner Coffee",
+        "Location": "Jincheng",
         "Genre": "Cafe",
         "Price": "1",
         "Coordinates": "24.432246726557906, 118.31623076509099",
@@ -553,6 +622,7 @@ export default [
     },
     {
         "Restaurant": "甜水厝豆花食坊",
+        "Location": "Jincheng",
         "Genre": "Dessert",
         "Price": "1",
         "Coordinates": "24.4322814860611, 118.31619158205382",
@@ -561,6 +631,7 @@ export default [
     },
     {
         "Restaurant": "龍河廣東粥",
+        "Location": "Jincheng",
         "Genre": "Breakfast",
         "Price": "1",
         "Coordinates": "24.43237844673086, 118.31604992033196",
@@ -569,6 +640,7 @@ export default [
     },
     {
         "Restaurant": "蓊蓊書店",
+        "Location": "Jincheng",
         "Genre": "Light",
         "Price": "2",
         "Coordinates": "24.43232356334204, 118.31596854019388",
@@ -577,6 +649,7 @@ export default [
     },
     {
         "Restaurant": "進麗小籠包",
+        "Location": "Jincheng",
         "Genre": "Chinese",
         "Price": "1",
         "Coordinates": "24.43216034790128, 118.31626284620722",
@@ -585,6 +658,7 @@ export default [
     },
     {
         "Restaurant": "重慶麻辣魚",
+        "Location": "Jincheng",
         "Genre": "Chinese",
         "Price": "1",
         "Coordinates": "24.43211700499975, 118.3162759788755",
@@ -593,6 +667,7 @@ export default [
     },
     {
         "Restaurant": "放鬆獺獺",
+        "Location": "Jincheng",
         "Genre": "NightSnack",
         "Price": "1",
         "Coordinates": "24.432019857062876, 118.31632194321442",
@@ -601,6 +676,7 @@ export default [
     },
     {
         "Restaurant": "金許園早餐店-金城店",
+        "Location": "Jincheng",
         "Genre": "Breakfast",
         "Price": "1",
         "Coordinates": "24.431948116996843, 118.31649348870599",
@@ -609,6 +685,7 @@ export default [
     },
     {
         "Restaurant": "隨憶SuiYi cafe",
+        "Location": "Jincheng",
         "Genre": "Cafe",
         "Price": "1",
         "Coordinates": "24.43294982712737, 118.315225307729",
@@ -617,6 +694,7 @@ export default [
     },
     {
         "Restaurant": "時令鍋物",
+        "Location": "Jincheng",
         "Genre": "HotPot",
         "Price": "2",
         "Coordinates": "24.43295918802951, 118.31486319706234",
@@ -625,6 +703,7 @@ export default [
     },
     {
         "Restaurant": "新大廟口活海鮮",
+        "Location": "Jincheng",
         "Genre": "Chinese",
         "Price": "2",
         "Coordinates": "24.432912537365347, 118.31473761042952",
@@ -633,6 +712,7 @@ export default [
     },
     {
         "Restaurant": "義巷屋",
+        "Location": "Jincheng",
         "Genre": "Italian",
         "Price": "2",
         "Coordinates": "24.432419502816337, 118.3148139670962",
@@ -641,6 +721,7 @@ export default [
     },
     {
         "Restaurant": "圓夢手作坊",
+        "Location": "Jincheng",
         "Genre": "Chinese",
         "Price": "1",
         "Coordinates": "24.43223564342513, 118.31467732883546",
@@ -649,6 +730,7 @@ export default [
     },
     {
         "Restaurant": "加州咖啡屋",
+        "Location": "Jincheng",
         "Genre": "Italian",
         "Price": "2",
         "Coordinates": "24.432114144795, 118.31474482542144",
@@ -657,6 +739,7 @@ export default [
     },
     {
         "Restaurant": "我在 甜點",
+        "Location": "Jincheng",
         "Genre": "Dessert",
         "Price": "1",
         "Coordinates": "24.432438007987532, 118.31432413834695",
@@ -665,6 +748,7 @@ export default [
     },
     {
         "Restaurant": "新梁記燒臘",
+        "Location": "Jincheng",
         "Genre": "Bento",
         "Price": "1",
         "Coordinates": "24.432399589636024, 118.314085021398",
@@ -673,6 +757,7 @@ export default [
     },
     {
         "Restaurant": "阿川加熱滷味-金門店",
+        "Location": "Jincheng",
         "Genre": "LouMei",
         "Price": "1",
         "Coordinates": "24.43227976089049, 118.31402976326198",
@@ -681,6 +766,7 @@ export default [
     },
     {
         "Restaurant": "尚好吃廣東粥",
+        "Location": "Jincheng",
         "Genre": "Chinese",
         "Price": "1",
         "Coordinates": "24.431789642481178, 118.31391077267472",
@@ -689,6 +775,7 @@ export default [
     },
     {
         "Restaurant": "金牌臭豆腐",
+        "Location": "Jincheng",
         "Genre": "FryFood",
         "Price": "1",
         "Coordinates": "24.43167255734286, 118.31385852863546",
@@ -697,6 +784,7 @@ export default [
     },
     {
         "Restaurant": "朝食早餐店",
+        "Location": "Jincheng",
         "Genre": "Breakfast",
         "Price": "1",
         "Coordinates": "24.431775126525828, 118.31359974150357",
@@ -705,6 +793,7 @@ export default [
     },
     {
         "Restaurant": "民生美食館",
+        "Location": "Jincheng",
         "Genre": "Chinese",
         "Price": "1",
         "Coordinates": "24.432215069876417, 118.31382102632105",
@@ -713,6 +802,7 @@ export default [
     },
     {
         "Restaurant": "T.I.T港式茶餐廳",
+        "Location": "Jincheng",
         "Genre": "HongKong",
         "Price": "1",
         "Coordinates": "24.433472702028006, 118.31455096338357",
@@ -721,6 +811,7 @@ export default [
     },
     {
         "Restaurant": "金食堂",
+        "Location": "Jincheng",
         "Genre": "Chinese",
         "Price": "1",
         "Coordinates": "24.433536221109613, 118.31448530004226",
@@ -729,6 +820,7 @@ export default [
     },
     {
         "Restaurant": "金門Miss Korea 炸雞",
+        "Location": "Jincheng",
         "Genre": "FryFood",
         "Price": "1",
         "Coordinates": "24.43378685794355, 118.31429946285795",
@@ -737,6 +829,7 @@ export default [
     },
     {
         "Restaurant": "俊輝燒烤-金城店",
+        "Location": "Jincheng",
         "Genre": "BBQ",
         "Price": "2",
         "Coordinates": "24.43508254473991, 118.31635028162904",
@@ -745,6 +838,7 @@ export default [
     },
     {
         "Restaurant": "金門夜貓 Night Owl",
+        "Location": "Jincheng",
         "Genre": "Bar",
         "Price": "2",
         "Coordinates": "24.4351579225727, 118.315803843679",
@@ -753,6 +847,7 @@ export default [
     },
     {
         "Restaurant": "野宴金門店",
+        "Location": "Jincheng",
         "Genre": "BBQ",
         "Price": "5",
         "Coordinates": "24.435680084144916, 118.3155072919504",
@@ -761,6 +856,7 @@ export default [
     },
     {
         "Restaurant": "喜得炭火燒三明治-金門金城店",
+        "Location": "Jincheng",
         "Genre": "BreakfastBrunch",
         "Price": "1",
         "Coordinates": "24.435791094593302, 118.3153943915475",
@@ -769,6 +865,7 @@ export default [
     },
     {
         "Restaurant": "炸雞x控",
+        "Location": "Jincheng",
         "Genre": "FryFood",
         "Price": "1",
         "Coordinates": "24.438175855750682, 118.31194077091926",
@@ -777,6 +874,7 @@ export default [
     },
     {
         "Restaurant": "甘泉魚麵(金門店)",
+        "Location": "Jincheng",
         "Genre": "Noodles",
         "Price": "1",
         "Coordinates": "24.4403538507379, 118.31220727603073",
@@ -785,6 +883,7 @@ export default [
     },
     {
         "Restaurant": "六扇門時尚湯鍋",
+        "Location": "Jincheng",
         "Genre": "HotPot",
         "Price": "2",
         "Coordinates": "24.44202399757897, 118.31227545177151",
@@ -793,6 +892,7 @@ export default [
     },
     {
         "Restaurant": "丁丁炸雞",
+        "Location": "Jincheng",
         "Genre": "FryFood",
         "Price": "1",
         "Coordinates": "24.43072168462079, 118.31436141013187",
@@ -801,6 +901,7 @@ export default [
     },
     {
         "Restaurant": "叁食雞蛋糕",
+        "Location": "Jincheng",
         "Genre": "Dessert",
         "Price": "1",
         "Coordinates": "24.430582873232627, 118.31451014166355",
@@ -809,6 +910,7 @@ export default [
     },
     {
         "Restaurant": "福氣啦便當店",
+        "Location": "Jincheng",
         "Genre": "Bento",
         "Price": "1",
         "Coordinates": "24.430400839203866, 118.31542714622601",
@@ -817,6 +919,7 @@ export default [
     },
     {
         "Restaurant": "魯香小館",
+        "Location": "Jincheng",
         "Genre": "Bento",
         "Price": "1",
         "Coordinates": "24.43035359221244, 118.3156281849716",
@@ -825,6 +928,7 @@ export default [
     },
     {
         "Restaurant": "金門金山煙燻鵝肉",
+        "Location": "Jincheng",
         "Genre": "Chinese",
         "Price": "2",
         "Coordinates": "24.43036946557891, 118.3156322082847",
@@ -833,6 +937,7 @@ export default [
     },
     {
         "Restaurant": "孫東寶金門民族店",
+        "Location": "Jincheng",
         "Genre": "Steak",
         "Price": "2",
         "Coordinates": "24.43019974255481, 118.31579381137789",
@@ -841,6 +946,7 @@ export default [
     },
     {
         "Restaurant": "韓鍋人韓式鍋物專賣店",
+        "Location": "Jincheng",
         "Genre": "HotPot",
         "Price": "2",
         "Coordinates": "24.430175321956025, 118.3161424985507",
@@ -849,6 +955,7 @@ export default [
     },
     {
         "Restaurant": "老先覺Plus",
+        "Location": "Jincheng",
         "Genre": "HotPot",
         "Price": "2",
         "Coordinates": "24.429843201355773, 118.31639596731738",
@@ -857,6 +964,7 @@ export default [
     },
     {
         "Restaurant": "日許時間",
+        "Location": "Jincheng",
         "Genre": "BreakfastBrunch",
         "Price": "2",
         "Coordinates": "24.430163254043414, 118.31652342385749",
@@ -865,6 +973,7 @@ export default [
     },
     {
         "Restaurant": "光頭廚房",
+        "Location": "Jincheng",
         "Genre": "Indian",
         "Price": "2",
         "Coordinates": "24.43025564265031, 118.31673943288257",
@@ -873,6 +982,7 @@ export default [
     },
     {
         "Restaurant": "日日香脆皮豬-金門金城店",
+        "Location": "Jincheng",
         "Genre": "BBQ",
         "Price": "2",
         "Coordinates": "24.43011983076318, 118.31813693576366",
@@ -881,6 +991,7 @@ export default [
     },
     {
         "Restaurant": "金門第一家炸雞",
+        "Location": "Jincheng",
         "Genre": "FryFood",
         "Price": "1",
         "Coordinates": "24.430136314674158, 118.3185768180369",
@@ -889,6 +1000,7 @@ export default [
     },
     {
         "Restaurant": "金門雪屋",
+        "Location": "Jincheng",
         "Genre": "Dessert",
         "Price": "1",
         "Coordinates": "24.430369591926546, 118.31933828973028",
@@ -897,6 +1009,7 @@ export default [
     },
     {
         "Restaurant": "宋記東山鴨頭",
+        "Location": "Jincheng",
         "Genre": "FryFood",
         "Price": "1",
         "Coordinates": "24.430783047817375, 118.32051137038508",
@@ -905,6 +1018,7 @@ export default [
     },
     {
         "Restaurant": "林炳煌（天恩素食）",
+        "Location": "Jincheng",
         "Genre": "Vegetarian",
         "Price": "1",
         "Coordinates": "24.430775721672504, 118.32061128265991",
@@ -913,6 +1027,7 @@ export default [
     },
     {
         "Restaurant": "民族小吃（廈門沙茶面）",
+        "Location": "Jincheng",
         "Genre": "Chinese",
         "Price": "1",
         "Coordinates": "24.430721386084816, 118.32068772560842",
@@ -921,6 +1036,7 @@ export default [
     },
     {
         "Restaurant": "有饃有樣肉夾饃",
+        "Location": "Jincheng",
         "Genre": "Chinese",
         "Price": "1",
         "Coordinates": "24.431009971744835, 118.320709888704",
@@ -929,6 +1045,7 @@ export default [
     },
     {
         "Restaurant": "呀米自助餐",
+        "Location": "Jincheng",
         "Genre": "Bento",
         "Price": "1",
         "Coordinates": "24.430688232056696, 118.32146761274039",
@@ -937,6 +1054,7 @@ export default [
     },
     {
         "Restaurant": "饗夜食堂-金門店",
+        "Location": "Jincheng",
         "Genre": "Chinese",
         "Price": "1",
         "Coordinates": "24.43054519355492, 118.32155140945127",
@@ -945,6 +1063,7 @@ export default [
     },
     {
         "Restaurant": "城市漢堡-金門金山店",
+        "Location": "Jincheng",
         "Genre": "BreakfastBrunch",
         "Price": "1",
         "Coordinates": "24.429201904907934, 118.32241991277753",
@@ -953,6 +1072,7 @@ export default [
     },
     {
         "Restaurant": "黑人油飯",
+        "Location": "Jincheng",
         "Genre": "Chinese",
         "Price": "1",
         "Coordinates": "24.42872041800268, 118.32302981850128",
@@ -961,6 +1081,7 @@ export default [
     },
     {
         "Restaurant": "早安公雞農場晨食-早午餐金門店",
+        "Location": "Jinning",
         "Genre": "BreakfastBrunch",
         "Price": "1",
         "Coordinates": "24.425629091698088, 118.3293901604894",
@@ -969,6 +1090,7 @@ export default [
     },
     {
         "Restaurant": "野味碳烤",
+        "Location": "Jinning",
         "Genre": "BBQ",
         "Price": "2",
         "Coordinates": "24.44029840822619, 118.34181521336099",
@@ -977,6 +1099,7 @@ export default [
     },
     {
         "Restaurant": "馬家麵線",
+        "Location": "Jincheng",
         "Genre": "Noodles",
         "Price": "1",
         "Coordinates": "24.4396342194558, 118.33359692472689",
@@ -985,6 +1108,7 @@ export default [
     },
     {
         "Restaurant": "肉坊",
+        "Location": "Jinning",
         "Genre": "BBQ",
         "Price": "5",
         "Coordinates": "24.447677002578775, 118.31164488846514",
@@ -993,6 +1117,7 @@ export default [
     },
     {
         "Restaurant": "紫微庭園美食",
+        "Location": "Jinning",
         "Genre": "Chinese",
         "Price": "2",
         "Coordinates": "24.45217213088268, 118.35195062089431",
@@ -1001,6 +1126,7 @@ export default [
     },
     {
         "Restaurant": "成功鍋貼館",
+        "Location": "Jinhu",
         "Genre": "Chinese",
         "Price": "2",
         "Coordinates": "24.43961680368127, 118.39036884790245",
@@ -1009,6 +1135,7 @@ export default [
     },
     {
         "Restaurant": "佑昇生億鍋貼",
+        "Location": "Jinhu",
         "Genre": "Chinese",
         "Price": "2",
         "Coordinates": "24.440538896373102, 118.39222951944029",
@@ -1017,6 +1144,7 @@ export default [
     },
     {
         "Restaurant": "合泉購物中心",
+        "Location": "Jinhu",
         "Genre": "Chinese",
         "Price": "1",
         "Coordinates": "24.449788036006865, 118.38651341985725",
