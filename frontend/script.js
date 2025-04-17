@@ -52,7 +52,7 @@ const randomSelect = (array) => {
 const appendRow = (row, withMarker=true) => {
     const newRow = document.createElement("div");
     newRow.innerHTML = `
-        <h3><a href="https://www.google.com/maps/search/${row.Restaurant}/@${getPosition(row.Coordinates)[0]},${getPosition(row.Coordinates)[1]},17z">${row.Restaurant}</a></h3>
+        <h3><a href="https://www.google.com/maps/search/${row.Restaurant}/@${getPosition(row.Coordinates)[0]},${getPosition(row.Coordinates)[1]},17z" target="_blank">${row.Restaurant}</a></h3>
         區域：${displayLocation(row.Location)}<br>
         類別：${displayGenre(row.Genre)}<br>
         價格：${displayPrice(parseInt(row.Price))}
@@ -148,6 +148,16 @@ const locationSelectAdd = () => {
     }
 }
 
+const randomButton = document.getElementById("randomPick");
+
+randomButton.addEventListener("click", () => {
+    map.removeMarkers();
+    clearContainer();
+
+    const row = randomSelect(data);
+    appendRow(row, true);
+    map.panTo(getPosition(row.Coordinates), 17);
+});
 /** Event Handlers **/
 
 submitButton.addEventListener("click", () => {
